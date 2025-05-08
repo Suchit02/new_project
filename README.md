@@ -1,29 +1,24 @@
 # Python Learning Dashboard
 
-An interactive dashboard for learning Python programming through practical tasks.
+A modern, interactive Python learning dashboard built with Streamlit. Perfect for both beginners and intermediate learners to practice Python programming concepts.
 
 ## Features
 
-- Multiple levels of programming tasks
-- Interactive UI with task cards
-- Real-time feedback
-- Visualization of results
+### Level 1 (Beginner)
+- String Reversal: Learn basic string manipulation
+- Temperature Conversion: Practice working with numbers and formulas
+- Email Validator: Introduction to basic string validation
+- Calculator: Implement basic arithmetic operations
+- Palindrome Checker: Advanced string manipulation
 
-## Tasks Include
+### Level 2 (Intermediate)
+- Guessing Game: Interactive number guessing with feedback
+- Custom Range Number Guesser: Advanced number guessing with custom ranges
+- Password Strength Checker: Learn about string analysis and security
+- Fibonacci Sequence: Practice loops and sequence generation
+- File Word Counter: Work with file handling and text analysis
 
-### Level 1
-- String Reversal
-- Temperature Conversion
-- Email Validator
-- Calculator
-- Palindrome Checker
-
-### Level 2
-- Guessing Game
-- Number Guesser
-- Password Strength Checker
-- Fibonacci Sequence
-- File Word Counter
+## Project Structure
 
 ## How to Run Locally
 
